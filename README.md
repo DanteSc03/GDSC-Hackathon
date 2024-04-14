@@ -7,7 +7,9 @@ This hackathon was designed to identify the segmentation of future clients of Te
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following packages.
 
 ```bash
-pip install seaborn scikit-learn
+pip install seaborn 
+pip install scikit-learn 
+pip install pandas
 
 ```
 
@@ -44,5 +46,10 @@ Please make sure to update tests as appropriate.
 
 [Miguel Diaz Perez de Juan](https://www.linkedin.com/in/migueldiazperezdejuan/)
 
+## Contributing
+
+Contributions to improve this tool are welcome. Feel free to fork this repository and submit your pull requests.
+
 ## License
-[Private use](https://www.youtube.com/watch?v=10GjJIO8I2Q)
+
+[MIT License](LICENSE.md)
