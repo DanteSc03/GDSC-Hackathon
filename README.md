@@ -1,6 +1,6 @@
 # [Google Developer Student Club Navarra](https://www.linkedin.com/company/gdsc-unav/mycompany/) Hackathon 2024
 
-This hackathon was designed to identify the segmentation of future clients of Tesla based on past and current clients.
+This hackathon was designed to identify the segmentation of future clients of Tesla based on past and current clients. This was created utilizing the Scikit-Learn machine learning models. You can access their [Github](https://github.com/scikit-learn/scikit-learn) or their [website](https://scikit-learn.org/stable/#) for more ML methods or documentation. 
 
 ## Installation
 
